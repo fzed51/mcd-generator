@@ -1,0 +1,19 @@
+{
+  "name": "fzed51/mcd-generator",
+  "description": "Script de g\u0000n\u0000ration de MCD pour PlantUML",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fabien Sanchez",
+      "email": "fzed51+git@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "./src"
+    }
+  }
+}
